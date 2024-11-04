@@ -9,3 +9,4 @@ nevinee/qbittorrent
 nyanmisaka/jellyfin
 outlovecn/portainer-cn
 xhofe/alist
+gdy666/lucky
