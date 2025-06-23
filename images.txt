@@ -11,4 +11,4 @@ outlovecn/portainer-cn
 xhofe/alist
 gdy666/lucky
 openlistteam/openlist
-openlistteam/openlist:v4.0.1-aio
+openlistteam/openlist:latest-aio
