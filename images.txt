@@ -12,3 +12,4 @@ xhofe/alist
 gdy666/lucky
 openlistteam/openlist
 openlistteam/openlist:latest-aio
+openlistteam/openlist:beta-aio
