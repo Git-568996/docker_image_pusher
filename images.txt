@@ -13,4 +13,4 @@ gdy666/lucky
 openlistteam/openlist
 openlistteam/openlist:latest-aio
 openlistteam/openlist:beta-aio
-HerbertHe/iptv-sources
+herberthe0229/iptv-sources
